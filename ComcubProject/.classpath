@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/anand.parmar/Desktop/Project/jar_files/jackson-annotations-2.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/anand.parmar/Desktop/Project/jar_files/jackson-core-2.9.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/anand.parmar/Desktop/Project/jar_files/jackson-databind-2.9.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/anand.parmar/Desktop/Project/jar_files/jopt-simple-5.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/anand.parmar/Desktop/Project/jar_files/kafka_2.12-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/anand.parmar/Desktop/Project/jar_files/kafka-clients-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/anand.parmar/Desktop/Project/jar_files/lz4-java-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/anand.parmar/Desktop/Project/jar_files/metrics-core-2.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/anand.parmar/Desktop/Project/jar_files/scala-library-2.12.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/anand.parmar/Desktop/Project/jar_files/scala-logging_2.12-3.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/anand.parmar/Desktop/Project/jar_files/scala-reflect-2.12.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/anand.parmar/Desktop/Project/jar_files/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/anand.parmar/Desktop/Project/jar_files/snappy-java-1.1.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/anand.parmar/Desktop/Project/jar_files/zkclient-0.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/anand.parmar/Desktop/Project/jar_files/zookeeper-3.4.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/anand.parmar/Desktop/projectSampleProgamme/elasticsearch_jar_file/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/anand.parmar/Desktop/projectSampleProgamme/elasticsearch_jar_file/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/anand.parmar/Desktop/projectSampleProgamme/elasticsearch_jar_file/fluent-hc-4.5.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/anand.parmar/Desktop/projectSampleProgamme/elasticsearch_jar_file/httpclient-4.5.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/anand.parmar/Desktop/projectSampleProgamme/elasticsearch_jar_file/httpclient-cache-4.5.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/anand.parmar/Desktop/projectSampleProgamme/elasticsearch_jar_file/httpclient-osgi-4.5.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/anand.parmar/Desktop/projectSampleProgamme/elasticsearch_jar_file/httpclient-win-4.5.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/anand.parmar/Desktop/projectSampleProgamme/elasticsearch_jar_file/httpcore-4.4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/anand.parmar/Desktop/projectSampleProgamme/elasticsearch_jar_file/httpmime-4.5.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/anand.parmar/Desktop/projectSampleProgamme/elasticsearch_jar_file/jna-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/anand.parmar/Desktop/projectSampleProgamme/elasticsearch_jar_file/jna-platform-4.5.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
